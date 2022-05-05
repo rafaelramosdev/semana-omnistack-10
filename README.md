@@ -34,7 +34,7 @@ O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que
 
 O DevRadar foi desenvolvido com o objetivo de oferecer a possibilidade de se cadastrar e buscar outros desenvolvedores filtrando por tecnologias, que estejam próximos à sua localização, o que pode ser usado para networking, contratações e até mesmo sociedades em projetos.
 
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada nos dias 13 a 17 de Janeiro de 2020.
+Este é um projeto desenvolvido durante a **[Semana OmniStack #10](https://nextlevelweek.com/)**, apresentada nos dias 13 a 17 de Janeiro de 2020.
 
 ## 🔖 Layout
 
